@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Lecturer of the school of Robotics (http://jqr.buu.edu.cn/), at Beijing Union University (http://www.buu.edu.cn/en/), Beijing, China. 
+I am currently a Lecturer of the school of Robotics at Beijing Union University, Beijing, China. 
 Prior to that, I got my Ph.D degree, Master degree and B.S. degree from the State Key Laboratory of Intelligent Control and Decision of Complex Systems (ICDCS) (http://csicdgz.bit.edu.cn/english/index.htm) at Beijing Institute of Technology (https://www.bit.edu.cn/english/) in 2017, 2012 and 2011, under the supervision of the Academician of the Chinese Academy of Engineering Prof. Jie Chen. 
 I have been visiting Loughbough University, UK (working with the Leader of the Communications, Networks, and Control Systems Research Division Prof. Shuang-Hua Yang during Jun., 2014 to Mon., 2015.
 
