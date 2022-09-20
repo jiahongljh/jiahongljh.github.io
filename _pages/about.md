@@ -15,7 +15,9 @@ Prior to that, I got my Ph.D degree in Control Science and Engineering under the
 
 I have been a visiting PhD in Loughbough University, UK, working with the Leader of the Communications, Networks, and Control Systems Research Division Prof. Shuang-Hua Yang during Jun. 2014 to Mon. 2015.
 
-My research interests mainly focus on multi-agent cooperative estimation, optimization, and RL algorithms and their applications in self-driving vehicles and data science.
+My research interests mainly focus on 
+* Multi-agent cooperative robust adaptive estimation, inference and optimization under unknown systemor measurement statistics and communication constraints.
+* Risk-sensitive multi-agent robust control and RL under uncertainties.
 
 ## Recent updates
 4/2021: Paper "Distributed Noise Covariance Matrices Estimation in Sensor Networks" was nominated as **2020 Roberto Tempo IEEE Best CDC Paper Award** in the ***2020 59th IEEE Conference on Decision and Control (CDC’2020)*** on efficient distributed adaptive estimation algorithms for linear time-varying system with unknown noise covariance.
