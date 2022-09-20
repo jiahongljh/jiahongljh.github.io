@@ -10,7 +10,7 @@ redirect_from:
 
 Hello, I am currently a Postdoctoral Associate in the Artificial Intelligence Lab at Vrije Universiteit Brussel, working with [Prof. Ann Nowé]("https://ai.vub.ac.be/team/ann-nowe/"), to explore and develop a safe and explanable (Multi-agent) reinforcement learning (RL).
 
-I am also a Lecturer of the school of Robotics at Beijing Union University, Beijing, China since 2017. 
+I am also a Lecturer of the school of Robotics at Beijing Union University, Beijing, China since Sep. 2017, focusing on the state-of-the-art multi-agent cooperative estimation, optimization and control method applied in the area of autonomous agents and sensor networks. 
 Prior to that, I got my Ph.D degree in Control Science and Engineering under the supervision of Prof. Jie Chen in 2017, and a B.Eng. degree in Electrical Engineering and Automation in 2011, both from the [Beijing Institute of Technology]("http://www.bit.edu.cn"), Beijing, China.
 
 I have been a visiting PhD in Loughbough University, UK, working with the Leader of the Communications, Networks, and Control Systems Research Division Prof. Shuang-Hua Yang during Jun. 2014 to Mon. 2015.
