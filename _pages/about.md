@@ -14,11 +14,15 @@ I have been visiting Loughbough University, UK (working with the Leader of the C
 
 My research interests focus on multi-agent cooperative estimation, optimization, and RL algorithms and their applications in self-driving vehicles and data science.
 
-**Recent updates**
+Recent updates
+======
+I am now a postdoc working with Prof. Ann Nowé in the Artificial Intelligence Lab at Vrije Universiteit Brussel.
 
 Selected Publications
 ======
 Full publications: [[Google scholar]](https://scholar.google.com/citations?user=iQQOZUoAAAAJ&hl=en), [[DBLP]](https://dblp.org/pid/125/2215.html), [[Researchgate]](https://www.researchgate.net/profile/Jiahong-Li-7).
+
+
 **Jiahong Li**, Fang Deng, Jie Chen. A Fast Distributed Variational Bayesian Filtering for Multi-sensor LTV system with Non-Gaussian Noise. IEEE Transactions on Cybernetics. 2018, 49(7): 2431-2443.
 Jie Chen, **Jiahong Li**, Shuanghua Yang, Fang Deng. Weighted Optimization-Based Distributed Kalman Filter for Nonlinear Target Tracking in Cooperative Sensor Networks. IEEE Transactions on Cybernetics. 2016, 47(11): 3892-3905.
 **Jiahong Li**, Xianghu Yue, Jie Chen, Fang Deng. A Novel Robust Trilateration Method applied to Ultra-Wide Bandwidth Location Systems. Sensors. 2017,17(4)795.
