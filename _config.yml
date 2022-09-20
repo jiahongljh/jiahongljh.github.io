@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Jiahong Li"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  bio              : "Lecturer@BUU"
+  location         : "Beijing, China"
+  employer         : [Beijing Union University (BUU)](http://www.buu.edu.cn/en/)
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : jiahongli@buu.edu.cn
+  researchgate     :  # example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=jiahong+li"
   uri              :
   bitbucket        :
   codepen          :
