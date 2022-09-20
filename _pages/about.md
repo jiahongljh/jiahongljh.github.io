@@ -17,14 +17,10 @@ I have been a visiting PhD in Loughbough University, UK, working with the Leader
 My research interests mainly focus on multi-agent cooperative estimation, optimization, and RL algorithms and their applications in self-driving vehicles and data science.
 
 <h2>Recent updates</h2>
-<ul>
 <li><p>4/2021: Paper &lsquo;&lsquo;Distributed Noise Covariance Matrices Estimation in Sensor Networks" was nominated as <b>2020 Roberto Tempo IEEE Best CDC Paper Award</b> in the <i>2020 59th IEEE Conference on Decision and Control (CDC’2020) on efficient distributed adaptive estimation algorithms for linear time-varying system with unknown noise covariance.</p>
 </li>
-</ul>
-<ul>
 <li><p>3/2019: Received the <b>Excellent Doctoral Dissertation Award</b> from the Chinese Decision and Control Society <a href="https://grd.bit.edu.cn/fczs/b142808.htm">(in Chinese)</a>. This award recognizes excellent thesis research by doctoral candidates in the field of decison-making and control in China; presented annually to up to seven authors.</p>
 </li>
-</ul>
 
 **Selected Publications**
 Full publications: [[Google scholar]](https://scholar.google.com/citations?user=iQQOZUoAAAAJ&hl=en), [[DBLP]](https://dblp.org/pid/125/2215.html), [[Researchgate]](https://www.researchgate.net/profile/Jiahong-Li-7).
