@@ -19,6 +19,8 @@ My research interests mainly focus on multi-agent cooperative estimation, optimi
 <h2>Recent updates</h2>
 <ul>
 <li><p>4/2021: Paper &lsquo;&lsquo;Distributed Noise Covariance Matrices Estimation in Sensor Networks" was nominated as <b>2020 Roberto Tempo IEEE Best CDC Paper Award</b> in the <i>2020 59th IEEE Conference on Decision and Control (CDC’2020) on efficient distributed adaptive estimation algorithms for linear time-varying system with unknown noise covariance.
+</li>
+</ul>
 <li><p>3/2019: Received the <b>Excellent Doctoral Dissertation Award</b> from the Chinese Decision and Control Society <a href="https://grd.bit.edu.cn/fczs/b142808.htm">(in Chinese)</a>. This award recognizes excellent thesis research by doctoral candidates in the field of decison-making and control in China; presented annually to up to seven authors.</p>
 </li>
 </ul>
