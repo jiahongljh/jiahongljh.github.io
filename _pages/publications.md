@@ -8,7 +8,7 @@ author_profile: true
 ## Research Paper
 ### 2021
 * **Design of Vehicle Cooperative localization System Based on Cooperative Communication Switching Strategy
-**. **Jiahong Li**, Nan Ma. [C]. ***2021 17th International Conference on Computational Intelligence and Security (CIS)***. Chengdu, China. 2021: 237-241, 2021-11-19 to 2021-11-22. (EI) [[Link]](DOI: 10.1109/CIS54983.2021.00057) 
+**. **Jiahong Li**, Nan Ma. [C]. ***2021 17th International Conference on Computational Intelligence and Security (CIS)***. Chengdu, China. 2021: 237-241, 2021-11-19 to 2021-11-22. (EI) [[Link]](https://doi.org/10.1109/CIS54983.2021.00057) 
 * **Future vehicles: interactive wheeled robots**. Nan Ma,  Deyi Li, Wen He, Yue Deng, **Jiahong Li**, etc. ***Chinese Science: Information Science***. 64, 156101, 2021. (EI) [[Link]](https://doi.org/10.1007/s11432-020-3171-4)
 ### 2020
 * **Distributed Noise Covariance Matrices Estimation in Sensor Networks**. **Jiahong Li**, Nan Ma, Fang Deng. [C]. ***The 59th IEEE Conference on Decision and Control (IEEE CDC' 2020)***. Seoul, South Korea. 2020: 1158-1163, 2020-12-14 to 2020-12-18. (2020 Roberto Tempo IEEE Best CDC Paper Award nomination,EI) [[Link]](https://doi.org/10.1109/CDC42340.2020.9303944) 
