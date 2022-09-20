@@ -84,10 +84,10 @@ author:
   avatar           : "profile.png"
   bio              : "Lecturer@BUU"
   location         : "Beijing, China"
-  employer         : [Beijing Union University (BUU)](http://www.buu.edu.cn/en/)
+  employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : jiahongli@buu.edu.cn
+  email            :
   researchgate     :  # example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=jiahong+li"
   uri              :
   bitbucket        :
