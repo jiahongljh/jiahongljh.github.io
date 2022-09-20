@@ -23,5 +23,5 @@ author_profile: true
 * Reviewer, IEEE Transactions on Cybernetics 
 * Reviewer, IEEE Signal Processing Letters 
 * Reviewer, Sensors
-* Vice-chair of, "Interactive cognition in self-driving" workshop of the 12th International Conference on Brain Informatics (BI 2019)
+* Vice-chair, "Interactive cognition in self-driving" workshop of the 12th International Conference on Brain Informatics (BI 2019)
 * Reporter, The  59th IEEE Conference on Decision and Control (CDC 2020)
