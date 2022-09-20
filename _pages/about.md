@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jiahong Li's Homepage"
+title: "Jiahong Li"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Lecturer of the school of Robotics at Beijing Union University, Beijing, China. 
-Prior to that, I got my Ph.D degree, Master degree and B.S. degree from the State Key Laboratory of Intelligent Control and Decision of Complex Systems (ICDCS) (http://csicdgz.bit.edu.cn/english/index.htm) at Beijing Institute of Technology (https://www.bit.edu.cn/english/) in 2017, 2012 and 2011, under the supervision of Prof. Jie Chen. 
-I have been visiting Loughbough University, UK (working with the Leader of the Communications, Networks, and Control Systems Research Division Prof. Shuang-Hua Yang during Jun., 2014 to Mon., 2015.
+Hello, I am currently a Postdoctoral Associate in the Artificial Intelligence Lab at Vrije Universiteit Brussel, working with <a href="https://ai.vub.ac.be/team/ann-nowe/">Prof. Ann Nowé</a>
+I am also a Lecturer of the school of Robotics at Beijing Union University, Beijing, China since 2017. 
+Prior to that, I got my Ph.D degree in Control Science and Engineering under the supervision of Prof. Jie Chen in 2017, and a B.Eng. degree in Electrical Engineering and Automation in 2011, both from the <a href="http://www.bit.edu.cn">Beijing Institute of Technology</a>, Beijing, China.</p>
 
-My research interests focus on multi-agent cooperative estimation, optimization, and RL algorithms and their applications in self-driving vehicles and data science.
+I have been a visiting PhD in Loughbough University, UK, working with the Leader of the Communications, Networks, and Control Systems Research Division Prof. Shuang-Hua Yang during Jun. 2014 to Mon. 2015.
+
+My research interests mainly focus on multi-agent cooperative estimation, optimization, and RL algorithms and their applications in self-driving vehicles and data science.
 
 Recent updates
 ======
