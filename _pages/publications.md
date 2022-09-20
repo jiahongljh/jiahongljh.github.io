@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications [[Google scholar]](https://scholar.google.com/citations?user=iQQOZUoAAAAJ&hl=en), [[DBLP]](https://dblp.org/pid/125/2215.html), [[Semantic Scholar](https://www.semanticscholar.org/author/2142961304)"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -19,4 +19,4 @@ author_profile: true
 - Nan Ma, Yue Gao, **Jiahong Li**, Deyi Li. Interactive Cognition in Self-driving. Chinese Science: Information Science. 2018, 48: 483-496. DOI: 10.1360/N112018-00028. (EI)
 
 
-Please refer to [[Researchgate]](https://www.researchgate.net/profile/Jiahong-Li-7) and [[Google scholar]](https://scholar.google.com/citations?user=iQQOZUoAAAAJ&hl=en)).
+Please refer to [[Researchgate]](https://www.researchgate.net/profile/Jiahong-Li-7), [[Google scholar]](https://scholar.google.com/citations?user=iQQOZUoAAAAJ&hl=en)), [[DBLP]](https://dblp.org/pid/125/2215.html) and [[Semantic Scholar](https://www.semanticscholar.org/author/2142961304).
