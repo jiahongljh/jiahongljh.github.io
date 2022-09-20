@@ -10,15 +10,22 @@ redirect_from:
 
 Hello, I am currently a Postdoctoral Associate in the Artificial Intelligence Lab at Vrije Universiteit Brussel, working with <a href="https://ai.vub.ac.be/team/ann-nowe/">Prof. Ann Nowé</a>
 I am also a Lecturer of the school of Robotics at Beijing Union University, Beijing, China since 2017. 
-Prior to that, I got my Ph.D degree in Control Science and Engineering under the supervision of Prof. Jie Chen in 2017, and a B.Eng. degree in Electrical Engineering and Automation in 2011, both from the <a href="http://www.bit.edu.cn">Beijing Institute of Technology</a>, Beijing, China.</p>
+Prior to that, I got my Ph.D degree in Control Science and Engineering under the supervision of Prof. Jie Chen in 2017, and a B.Eng. degree in Electrical Engineering and Automation in 2011, both from the <a href="http://www.bit.edu.cn">Beijing Institute of Technology</a>, Beijing, China.
 
 I have been a visiting PhD in Loughbough University, UK, working with the Leader of the Communications, Networks, and Control Systems Research Division Prof. Shuang-Hua Yang during Jun. 2014 to Mon. 2015.
 
 My research interests mainly focus on multi-agent cooperative estimation, optimization, and RL algorithms and their applications in self-driving vehicles and data science.
 
-Recent updates
-======
-I am now a postdoc working with Prof. Ann Nowé in the Artificial Intelligence Lab at Vrije Universiteit Brussel.
+<h2>Recent updates</h2>
+<ul>
+<li><p><b>4/2021: Paper &lsquo;&lsquo;" was nominated as <b>2020 Roberto Tempo IEEE Best CDC Paper Award
+</b> in the <i>2020 59th IEEE Conference on Decision and Control (CDC’2020)</i> for the joint work with Prof. Fang Deng and Prof. Jie Chen on efficient distributed adaptive estimation algorithms for linear time-varying system with unknown noise covariance.</p>
+</li>
+<li><p>11/2019: Received the <b>Excellent Doctoral Dissertation Award</b> from the Chinese Control Society <a href="https://grd.bit.edu.cn/fczs/b142808.htm">(in Chinese)</a>. This award recognizes excellent thesis research by doctoral candidates in the field of control in China; presented annually to up to seven authors.</p>
+</li>
+</ul>
+<div id="footer">
+<div id="footer-text">
 
 Selected Publications
 ======
