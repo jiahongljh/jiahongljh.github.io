@@ -13,15 +13,15 @@ author_profile: true
 ### 2020
 * **Distributed Noise Covariance Matrices Estimation in Sensor Networks**. **Jiahong Li**, Nan Ma, Fang Deng. [C]. ***The 59th IEEE Conference on Decision and Control (IEEE CDC' 2020)***. Seoul, South Korea. 2020: 1158-1163, 2020-12-14 to 2020-12-18. (2020 Roberto Tempo IEEE Best CDC Paper Award nomination,EI) [[link]](https://doi.org/10.1109/CDC42340.2020.9303944) 
 ### 2018
-* **A Fast Distributed Variational Bayesian Filtering for Multi-sensor LTV system with Non-Gaussian Noise**. **Jiahong Li**, Fang Deng, Jie Chen. ***IEEE Transactions on Cybernetics***. 2018, 49(7): 2431-2443. (**TCYB**, CCF-B, JCR Q1)</i>.[[link]](https://doi.org/10.1109/TCYB.2018.2815697) 
+* **A Fast Distributed Variational Bayesian Filtering for Multi-sensor LTV system with Non-Gaussian Noise**. **Jiahong Li**, Fang Deng, Jie Chen. ***IEEE Transactions on Cybernetics***. 2018, 49(7): 2431-2443. (**TCYB**, CCF-B, JCR Q1).[[link]](https://doi.org/10.1109/TCYB.2018.2815697) 
 * **Multi-agent Robust Time Differential Reinforcement Learning over communicated networks**. **Jiahong Li**, Nan Ma, Xiangmin Han. [C]. ***The 37th Chinese Control Conference***, Wuhan, China. 2018. (EI) [[link]](https://doi.org/10.23919/ChiCC.2018.8483961) 
 * **Interactive Cognition in Self-driving**. Nan Ma, Yue Gao, **Jiahong Li**, Deyi Li. ***Chinese Science: Information Science***. 2018, 48: 483-496. (EI) [[link]](https://doi.org/10.1360/N112018-00028)
 ### 2017
 * **A Novel Robust Trilateration Method applied to Ultra-Wide Bandwidth Location Systems**. Jie Chen, **Jiahong Li**, Xianghu Yue, Jie Chen, Fang Deng ***Sensors***. 2017,17(4)795.[[link]](https://doi.org/10.3390/s17040795) 
-* **Energy- Based Sound Source Localization with Low Power Consumption in Wireless Sensor Networks**. Fang Deng, Shengpan Guan, Xianghu Yue, Jie Chen, Jianyao Lv, **Jiahong Li**. ***IEEE Transactions on Industrial Electronics***. 2017, 64(6): 4894-4902. (**TIE**, JCR Q1)</i>.[[link]](https://doi.org/10.1109/TIE.2017.2652394) 
+* **Energy- Based Sound Source Localization with Low Power Consumption in Wireless Sensor Networks**. Fang Deng, Shengpan Guan, Xianghu Yue, Jie Chen, Jianyao Lv, **Jiahong Li**. ***IEEE Transactions on Industrial Electronics***. 2017, 64(6): 4894-4902. (**TIE**, JCR Q1).[[link]](https://doi.org/10.1109/TIE.2017.2652394) 
 
 ### 2016
-* **Weighted Optimization-Based Distributed Kalman Filter for Nonlinear Target Tracking in Cooperative Sensor Networks**. Jie Chen, **Jiahong Li**, Shuanghua Yang, Fang Deng, ***IEEE Transactions on Cybernetics***, 2016, 47(11): 3892-3905. (**TCYB**, CCF-B, JCR Q1)</i>.[[link]](https://doi.org/10.1109/TCYB.2016.2587723) 
+* **Weighted Optimization-Based Distributed Kalman Filter for Nonlinear Target Tracking in Cooperative Sensor Networks**. Jie Chen, **Jiahong Li**, Shuanghua Yang, Fang Deng, ***IEEE Transactions on Cybernetics***, 2016, 47(11): 3892-3905. (**TCYB**, CCF-B, JCR Q1).[[link]](https://doi.org/10.1109/TCYB.2016.2587723) 
 
 ### 2013
 * **Federated Kalman consensus filter in distributed track fusion**. **Jiahong Li**, Jie Chen, Chen Chen, Fang Deng. [C]. ***IEEE International Conference on Cyber Technology in Automation, Control and Intelligent Systems***, Nanjing, P.R. China. 2013. (EI) [[link]](https://doi.org/10.1109/CYBER.2013.6705480) 
