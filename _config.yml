@@ -12,7 +12,6 @@ title_separator          : "-"
 name                     : &name "Jiahong Li"
 description              : &description "personal description"
 url                      : https://jiahongljh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-theme: jekyll-theme-minimal
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jiahongljh/jiahongljh.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -210,7 +209,7 @@ defaults:
       comments: true
       share: true
       related: true
-  # _publications
+  # _CV
   - scope:
       path: ""
       type: CV
