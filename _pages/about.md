@@ -24,6 +24,10 @@ My research interests mainly focus on:
 * **01/2025**: Two papers accepted at 2025 China Automation Congress (CAC) and CVCI2025.
 * **04/2021**: Paper "Distributed Noise Covariance Matrices Estimation in Sensor Networks" was nominated for the **2020 Roberto Tempo IEEE Best CDC Paper Award**.
 * **03/2019**: My doctoral thesis received the [**Excellent Doctoral Dissertation Award**](https://grd.bit.edu.cn/fczs/b142808.htm) from the Chinese Decision and Control Society.
+## Featured Projects
+- **[ALS-IRLS: Outlier-Robust Autocovariance Estimation](https://jiahongljh.github.io)**  
+  An efficient iteratively reweighted least squares (IRLS) framework for noise covariance estimation in Kalman filters, significantly improving robustness against measurement outliers.  
+  [[Project Page]](https://jiahongljh.github.io/als-irls/) [[Code]](https://github.com/jiahongljh/als-irls) [[arXiv]](https://arxiv.org/abs/2603.08158)
 
 ## Selected Publications
 Full publications: [[Google Scholar]](https://scholar.google.com/citations?user=iQQOZUoAAAAJ&hl=en), [[DBLP]](https://dblp.org/pid/125/2215.html), [[ResearchGate]](https://www.researchgate.net/profile/Jiahong-Li-7).
