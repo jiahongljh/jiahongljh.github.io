@@ -21,9 +21,7 @@ My research interests mainly focus on:
 * Intelligent optimization and decision-making for complex systems.
 
 ## News
-* **03/2025**: Promoted to Associate Professor at Beijing Union University.
 * **01/2025**: Two papers accepted at 2025 China Automation Congress (CAC) and CVCI2025.
-* **01/2024**: Paper on Adaptive Kalman Filter for Real-Time Visual Object Tracking accepted in *Applied Sciences*.
 * **04/2021**: Paper "Distributed Noise Covariance Matrices Estimation in Sensor Networks" was nominated for the **2020 Roberto Tempo IEEE Best CDC Paper Award**.
 * **03/2019**: My doctoral thesis received the [**Excellent Doctoral Dissertation Award**](https://grd.bit.edu.cn/fczs/b142808.htm) from the Chinese Decision and Control Society.
 
