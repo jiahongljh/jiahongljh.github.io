@@ -4,24 +4,27 @@ title: "Awards"
 permalink: /awards/
 author_profile: true
 ---
-## Awards 
-### Academic paper
-* Paper "Distributed Noise Covariance Matrices Estimation in Sensor Networks" was nominated as **2020 Roberto Tempo IEEE Best CDC Paper Award** in the ***2020 59th IEEE Conference on Decision and Control (CDC’2020)*** on efficient distributed adaptive estimation algorithms for linear time-varying system with unknown noise covariance.
-* My doctoral thesis "Research on noise adaptive filtering technique in distributed sensor networks" received the **Excellent Doctoral Dissertation Award** from [Chinese Decision and Control Society](https://grd.bit.edu.cn/fczs/b142808) (in Chinese). This award recognizes excellent thesis research by doctoral candidates in the field of decison-making and control in China; presented annually to up to seven authors.
+## Awards & Honors
 
-### Academic competition
-* Won First Prize in 2020 World Intelligent Driving Competition Virtual Simulation Group Competition
-* Won Second Prize in 2019 World Intelligent Driving Competition Virtual Simulation Group Competition
-* Won First Prize in 2018 World Intelligent Driving Competition Virtual Simulation Group Competition
-* Won Third Prize in 2017 China Intelligent Driving Competition
+### Academic & Research Awards
+* **Excellent Doctoral Dissertation Award**, Chinese Decision and Control Society (2018). Recognized for the thesis "Research on noise adaptive filtering technique in distributed sensor networks." 
+* **2020 Roberto Tempo IEEE Best CDC Paper Award (Nomination)**, *59th IEEE Conference on Decision and Control (CDC’2020)*. Recognized for the paper "Distributed Noise Covariance Matrices Estimation in Sensor Networks."
 
-### Professional affiliations
-* Member, IEEE
-* Member, Intelligent Cognition Committee, Chinese Association for Artificial Intelligence
-* Member, Chinese Association for Automation
-* Member, Beijing Society of Interdisciplinary Sciences
-* Reviewer, IEEE Transactions on Cybernetics 
-* Reviewer, IEEE Signal Processing Letters 
-* Reviewer, Sensors
-* Vice-chair, "Interactive cognition in self-driving" workshop of the 12th International Conference on Brain Informatics (BI 2019)
-* Reporter, The  59th IEEE Conference on Decision and Control (CDC 2020)
+### Academic Competitions
+* **First Prize**, China (Shenyang) Intelligent Connected Vehicle Competition Metaverse Virtual Simulation (2023)
+* **First Prize**, World Intelligent Driving Challenge (WIDC) Virtual Simulation Group Competition (2020, 2018)
+* **Second Prize**, World Intelligent Driving Challenge (WIDC) Virtual Simulation Group Competition (2019)
+* **Special Prize**, The 2nd China AI+ Competition (2019)
+* **Third Prize**, China Intelligent Driving Competition (2017)
+
+### Teaching Awards
+* **Second Prize**, University-level Teaching Achievement Award (2020)
+* **Third Prize**, Curriculum Ideological and Political Teaching Design Competition, School of Robotics
+* **Third Prize**, Young Teachers' Basic Teaching Skills Competition, School of Robotics
+
+## Professional Affiliations & Service
+* **Assistant Editor**, *CAAI Transactions on Intelligent Systems* (*智能系统学报*)
+* **Committee Member**, Intelligent Interaction Committee, Chinese Association for Artificial Intelligence (CAAI)
+* **Member**, IEEE / Chinese Association for Automation / Beijing Society of Interdisciplinary Sciences
+* **Reviewer**: *IEEE Transactions on Cybernetics*, *IEEE Signal Processing Letters*, *Sensors*
+* **Vice-chair**, "Interactive cognition in self-driving" workshop of the 12th International Conference on Brain Informatics (BI 2019)

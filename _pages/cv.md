@@ -9,51 +9,43 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Education
+* **Ph.D. in Control Science and Engineering**, Beijing Institute of Technology, 2012.09 - 2017.06
+  * Advisor: Prof. Jie Chen (Academician of CAE)
+* **M.S. in Control Science and Engineering**, Beijing Institute of Technology, 2011.09 - 2012.07
+  * Advisor: Prof. Jie Chen
+* **B.S. in Electrical Engineering and Automation**, Beijing Institute of Technology, 2007.09 - 2011.06
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Work Experience
+* **Associate Professor**, School of Robotics, Beijing Union University, 2025.03 - Present
+* **Lecturer**, School of Robotics, Beijing Union University, 2017.09 - 2025.02
+* **Postdoctoral Associate**, Artificial Intelligence Lab, Vrije Universiteit Brussel, Belgium, 2021.12 - 2022.12
+  * Advisor: Prof. Ann Nowé (Fellow of EurAI)
+* **Visiting Scholar**, School of Computer Science, Loughborough University, UK, 2014.07 - 2015.01
+  * Advisor: Prof. Shuang-Hua Yang (Fellow of IET)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Selected Research Projects
+* **PI**, "Research on Cooperative Tracking Technology of Connected Multiple Vehicles in Uncertain Environment," General Program of Science and Technology Plan of Beijing Municipal Education Commission (KM202411417006), 2024.01 - 2026.12.
+* **Co-PI**, "Intelligent Manufacturing Optimization Decision and Adaptive Regulation for Power Battery Production," Major Research Plan of NSFC (92367109), 2024.01 - 2026.12.
+* **Co-PI**, "Robust Cooperative Output Regulation and its Applications," General Program of NSFC (61973035), 2020.01 - 2023.12.
+* **PI**, "Multi-agent Cooperative Localization based on V2X Technology in Uncertain Environments," Youth Science Fund Project of NSFC (61803034), 2019.01 - 2021.12. (Completed)
 
-Publications
-======
+## Academic Service
+* Committee Member, Intelligent Interaction Committee, Chinese Association for Artificial Intelligence (CAAI)
+* Assistant Editor, *CAAI Transactions on Intelligent Systems*
+* Reviewer for *IEEE Transactions on Cybernetics*, *IEEE Signal Processing Letters*, *Sensors*, etc.
+
+## Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
+
+## Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
-======
+
+## Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
